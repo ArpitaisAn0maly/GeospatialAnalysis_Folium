@@ -7,4 +7,12 @@ Python Libraries : Folium for interactive maps.
 
 All maps are interactive in original notebooks. Github is unable to render HTML interactive charts so I am embedding static images below.
 
+![](images/HurricanTimelapseYear.png)
+![](images/LandfallLocation.png)
+![](images/LandfallTrend.png)
+![](images/LandFallByCat.png)
+![](images/HurricanLandfallTrend.png)
+![](images/HurricaneTotalVsLandfall.png)
+![](images/HurricaneByCat.png)
+
 
